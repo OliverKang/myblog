@@ -12,7 +12,7 @@ language: en
 timezone: ''
 
 # URL
-## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
+## Set your site url here. For example, if you use GitHub Page, set url as 'https://github.com/OliverKang/OliverKang.github.io.git'
 url: https://OliverKang.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -101,9 +101,9 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+# Deployment
 deploy:
   type: git
   repo: https://github.com/OliverKang/OliverKang.github.io.git
   branch: main
-
 
