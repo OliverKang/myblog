@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4cf71b4f-81a9-4ce1-aa77-fbb2a2892a4d" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/source/_posts/ch2_python_basic.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/ch2_python_basic.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +33,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\GREEN\Desktop\myblog\source\_posts" />
       <recent name="C:\Users\GREEN\Desktop\myblog\public" />
     </key>
   </component>
@@ -48,7 +49,7 @@
       <workItem from="1635745973693" duration="233000" />
       <workItem from="1635746647173" duration="2000" />
       <workItem from="1635746667288" duration="12000" />
-      <workItem from="1635746680931" duration="2006000" />
+      <workItem from="1635746680931" duration="2663000" />
     </task>
     <servers />
   </component>

@@ -1,11 +1,6 @@
 ---
-title: Hello World
+title: 211101
 ---
-
-## Hello World
-
-print("Hello, world!")
-
 ## 주석처리
 
 
